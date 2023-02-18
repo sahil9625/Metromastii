@@ -390,10 +390,10 @@ a.read_more:hover {
 
 .service_icon i {
     color: #3498db;
-    font-size: 40px;
+    font-size: 1px;
     margin-top: 0;
     position: relative;
-    top: 20px;
+    top: 0px;
     z-index: 20;
 }
 
